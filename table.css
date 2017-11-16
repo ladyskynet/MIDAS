@@ -1,0 +1,17 @@
+table {
+    background: gray;
+
+}
+td {    
+    display: block;
+    float: left;
+    padding: 30px 0;
+    margin-right:50px;
+    background: white;
+    width: 100px;
+    
+}
+td:last-child {
+    margin-right: 0;
+}
+
