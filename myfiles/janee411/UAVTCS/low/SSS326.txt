@@ -1,0 +1,1 @@
+SSS326 The TCS shall provide an internal interface for establishing communications with the Real Time Processor (RTP) within TCS.

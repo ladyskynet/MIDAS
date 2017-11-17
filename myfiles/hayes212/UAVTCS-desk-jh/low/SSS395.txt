@@ -1,0 +1,1 @@
+SSS395 The TCS shall provide an open software architecture to be capable of supporting additional CSCIs, CSCs, and CSUs for future AVs, future payloads, and payload capabilities (e.g. auto-search and automatic target tracking), and future Tactical UAVs. 

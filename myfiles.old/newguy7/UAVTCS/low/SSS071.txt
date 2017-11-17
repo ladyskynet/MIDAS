@@ -1,0 +1,1 @@
+SSS071 TCS shall provide the capability for the operator to retrieve a mission plan for viewing, modification, as well as deletion at the operator's discretion.

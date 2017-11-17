@@ -1,0 +1,1 @@
+SSS327 This interface shall allow the information from the data server to be made available to other components of the TCS. 

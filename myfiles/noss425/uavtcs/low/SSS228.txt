@@ -1,0 +1,1 @@
+SSS228 The TCS shall have the functionality to provide the following control capabilities: Establish and terminate analog communication to peripheral devices. 

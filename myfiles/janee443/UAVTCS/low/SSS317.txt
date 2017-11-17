@@ -1,0 +1,1 @@
+SSS317 The TCS shall provide an interface between the TCS and external data storage systems. 

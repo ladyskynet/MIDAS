@@ -1,0 +1,1 @@
+SSS513 Tools and test equipment required to maintain the TCS but not resident in each service inventory shall be identified as special tools and special purpose test equipment (SPTE), respectively, and kept to a minimum. 

@@ -1,0 +1,7 @@
+SSS013 Table 3-2 identifies the payloads with which the TCS shall interoperate. 
+Table 3-2 Interoperable TCS Payloads 
+PAYLOAD TYPE	UAV
+EO/IR	Predator 
+SAR	Predator
+EO/IR	Outrider 
+	Future

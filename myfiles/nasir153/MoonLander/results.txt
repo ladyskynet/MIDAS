@@ -1,0 +1,20 @@
+%
+FM-1.txt
+%
+FM-2.txt	TC-1.txt
+%
+FM-3.txt
+%
+FM-4.txt	TC-2.txt
+%
+FM-5.txt	TC-3.txt
+%
+FM-6.txt	TC-1.txt
+%
+FM-7-1.txt
+%
+FM-7-2-1.txt	TC-4.txt
+%	
+FM-7-2-2.txt
+%
+FM-7-2-3.txt	TC-5.txt	

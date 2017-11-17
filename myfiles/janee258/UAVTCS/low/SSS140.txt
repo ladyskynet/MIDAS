@@ -1,0 +1,1 @@
+SSS140 TCS shall provide the capability to monitor specific telemetry elements real-time, and record all telemetry elements for future review and processing.

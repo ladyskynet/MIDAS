@@ -1,0 +1,1 @@
+SSS470 The TCS shall provide for multi-level information display tailoring by the operator.

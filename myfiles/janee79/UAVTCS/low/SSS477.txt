@@ -1,0 +1,1 @@
+SSS477 The TCS HCI shall provide the capability to select and amplify an object or point on a map or payload screen. 

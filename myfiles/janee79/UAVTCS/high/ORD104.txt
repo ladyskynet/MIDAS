@@ -1,0 +1,1 @@
+ORD104 To meet growth requirements, the TCS should be capable of adding additional storage without a major hardware reconfiguration. 

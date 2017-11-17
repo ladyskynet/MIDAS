@@ -1,0 +1,1 @@
+SSS379 The TCS hardware shall support the data rate characteristics of the AV, data link and payload to ensure interoperability. 

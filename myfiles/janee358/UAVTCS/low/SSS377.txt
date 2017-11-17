@@ -1,0 +1,1 @@
+SSS377 The TCS hardware shall allow access to other computers to share in processing capability. 

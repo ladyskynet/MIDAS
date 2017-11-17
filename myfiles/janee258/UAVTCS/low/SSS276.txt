@@ -1,0 +1,1 @@
+SSS276 The TCS shall allow authorized operators to install software upgrades via CD-ROM as well as other media storage devices.

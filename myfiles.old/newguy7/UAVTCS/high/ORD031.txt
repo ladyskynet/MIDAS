@@ -1,0 +1,1 @@
+ORD031 The TCS shall include the basic flight planning tools. As a minimum these tools will include: Fuel Calculations 

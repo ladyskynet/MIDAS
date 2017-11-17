@@ -1,0 +1,1 @@
+SSS540 The TCS shall provide the capability to override validation faults after the fault is acknowledged by the operator.

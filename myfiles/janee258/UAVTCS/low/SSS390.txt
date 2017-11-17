@@ -1,0 +1,1 @@
+SSS390 As an objective, the TCS throughput shall not exceed 25% of throughput capability delivered over any 10 second period.

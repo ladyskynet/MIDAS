@@ -1,0 +1,1 @@
+SSS207 The TCS shall have the functionality to determine the location of items of interest within the payload field of view, and express these locations in coordinates acceptable for military applications. 

@@ -1,0 +1,1 @@
+SSS086 The TCS flight route planner shall include, as a minimum, the following flight planning tools: Payload search area information such as: visual acuity range due to atmospheric conditions; diurnal transition periods for thermal imagery, and lunar and solar terrain shadowing. 

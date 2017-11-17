@@ -31,11 +31,10 @@ $sql = "INSERT INTO datasets (name, userid, filedirectory) VALUES ('$dset_name',
 if ($conn->query($sql) == TRUE) {
 //    echo "<p>Insert went well</p>";
 } else {
-    echo "unable to insert";
+    echo "Unable to add data set.";
 }
 
-
-	header("location:uploadfile.php");
+header("location:uploadfile.php");
 /*
 //ALBERT
 //DO SELECT HERE
@@ -52,9 +51,6 @@ else {
 	echo "failed to do sql call";
 }
 
-
-
-
 if ($conn->query($sql) === TRUE) {
 	//TAke them to uploadfile.php
 //    echo "New record created successfully";
@@ -69,11 +65,5 @@ print_r ($_SESSION);
 print "</pre>";
 */
 $conn->close();
-
-
 }
-
-
-
-
 ?>

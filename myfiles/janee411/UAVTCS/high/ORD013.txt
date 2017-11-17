@@ -1,0 +1,1 @@
+ORD013 The TCS core software shall be generically written to provide Level Five interaction for both TUAV and MAE UAVs and establish the architecture for future tactical UAVs. 

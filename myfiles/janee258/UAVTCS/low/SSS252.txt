@@ -1,0 +1,1 @@
+SSS252 The TCS shall allow the operator to control and monitor the Payload's FD/L, if required and provided by the Original Equipment Manufacturer (OEM)

@@ -1,0 +1,1 @@
+SSS372 The TCS shall be capable of operation within environments specified in the System/Subsystem Design Document for the land-based shelter and shipboard environments.

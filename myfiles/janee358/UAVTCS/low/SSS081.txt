@@ -1,0 +1,1 @@
+SSS081 The TCS shall provide the capability to display mission waypoints and flight path graphically. 

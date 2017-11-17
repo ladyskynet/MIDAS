@@ -1,0 +1,1 @@
+SSS093 The TCS shall provide the capability to create waypoints that define the desired flight path, define AV Altitude and Airspeed associated with the waypoint.

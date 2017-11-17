@@ -1,0 +1,1 @@
+ORD054 The TCS capabilities shall include video/SAR frame grabbing, image annotation, image archiving, video/SAR recording playback, and data dissemination (threshold). 

@@ -1,0 +1,1 @@
+SSS358 The TCS system design shall use MIL-STD-2036, Section 5.1.3.11 as a guide, with regard to personnel hazards, and MIL-STD-1472D, Section 5.13, as a guide for safety from a human engineering viewpoint. 

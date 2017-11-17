@@ -1,0 +1,1 @@
+ORD062 The TCS shall have the capability to select/deselect cross hairs (or other similar ICON) to identify center of target  (threshold). 

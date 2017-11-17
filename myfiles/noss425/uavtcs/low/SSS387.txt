@@ -1,0 +1,1 @@
+SSS387 The TCS shall be capable of restoring power in sufficient time to avoid loss of critical mission data or loss of air vehicle control during power outages.

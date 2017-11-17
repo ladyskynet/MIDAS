@@ -1,0 +1,1 @@
+ORD048 During the mission execution, the TCS shall receive, process, format, store, retrieve flight and payload data, and perform limited exploitation of payload data (threshold). 

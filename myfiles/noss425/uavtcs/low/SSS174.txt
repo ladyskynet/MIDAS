@@ -1,0 +1,1 @@
+SSS174 The operator shall be able to manually override the automatic mode selection of the selected data terminal, if desired.

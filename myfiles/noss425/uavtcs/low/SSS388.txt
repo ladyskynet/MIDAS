@@ -1,0 +1,1 @@
+SSS388 The TCS shall have an uninterrupted power supply for critical phases (landing and takeoff as a minimum) of mission execution. 

@@ -1,0 +1,1 @@
+SSS552 The TCS shall provide the capability to display waypoint data in alphanumeric format.

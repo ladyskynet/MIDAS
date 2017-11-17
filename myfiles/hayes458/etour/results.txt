@@ -1,0 +1,117 @@
+%
+UC1.txt	IGestioneBeniCulturaliAgenzia.txt	GestioneBeniCulturaliAgenzia.txt	DBBeneCulturale.txt	IDBBeneCulturale.txt	BeniCulturali.txt									
+%
+UC2.txt	IDBBeneCulturale.txt	DBBeneCulturale.txt	IGestioneBeniCulturaliAgenzia.txt	GestioneBeniCulturaliAgenzia.txt	ControlloBeniCulturali.txt	BeanBeneCulturale.txt	GestioneBeniCulturaliAgenziaTest.txt	BeniCulturali.txt						
+%
+UC3.txt	IDBBeneCulturale.txt	DBBeneCulturale.txt	IGestioneBeniCulturaliAgenzia.txt	GestioneBeniCulturaliAgenzia.txt	ControlloBeniCulturali.txt	BeanBeneCulturale.txt	BeniCulturali.txt							
+%
+UC4.txt	IDBBeneCulturale.txt	DBBeneCulturale.txt	IGestioneBeniCulturaliAgenzia.txt	GestioneBeniCulturaliAgenzia.txt	Ricerca.txt	RicercaStandard.txt	RicercaAvanzata.txt	BeanBeneCulturale.txt	IRicerca.txt	BeniCulturali.txt				
+%
+UC5.txt	SchedaBC.txt	IScheda.txt	BeanBeneCulturale.txt	IGestioneBeniCulturaliComune.txt	GestioneBeniCulturaliComune.txt	BeniCulturali.txt						
+%
+UC6.txt	IDBPuntoDiRistoro.txt	DBPuntoDiRistoro.txt	GestionePuntiDiRistoroAgenzia.txt	IGestionePuntiDiRistoroAgenzia.txt										
+%
+UC7.txt	DBConvenzione.txt	IDBConvenzione.txt	GestionePuntiDiRistoroAgenzia.txt	IGestionePuntiDiRistoroAgenzia.txt	BeanConvenzione.txt									
+%
+UC8.txt	IDBPuntoDiRistoro.txt	DBPuntoDiRistoro.txt	GestionePuntiDiRistoroAgenzia.txt	IGestionePuntiDiRistoroAgenzia.txt	ControlloDati.txt	BeanPuntoDiRistoro.txt								
+%
+UC9.txt	IDBPuntoDiRistoro.txt	DBPuntoDiRistoro.txt	GestionePuntiDiRistoroAgenzia.txt	IGestionePuntiDiRistoroAgenzia.txt	Ricerca.txt	RicercaStandard	RicercaAvanzata.txt	BeanPuntoDiRistoro.txt	IRicerca.txt					
+%
+UC10.txt	SchedaPR.txt	IScheda.txt	BeanPuntoDiRistoro.txt	IGestionePuntiDiRistoroComune.txt	GestionePuntiDiRistoroComune.txt	IDBPuntoDiRistoro.txt	DBPuntoDiRistoro.txt	GestionePuntiDiRistoroAgenzia.txt	IGestionePuntiDiRistoroAgenzia.txt					
+%
+UC11.txt	DBConvenzione.txt	IDBConvenzione.txt	StoricoTableModel.txt	BeanConvenzione.txt	StoricoConvenzioni.txt									
+%
+UC12.txt	SchedaTurista.txt	IScheda.txt	Turisti.txt	TuristiTableModel.txt	BeanTurista.txt	GestioneTuristaComune.txt	IGestioneTuristaComune.txt							
+%
+UC13.txt	GestioneTuristiAgenzia.txt	IGestioneTuristiAgenzia.txt	Turisti.txt	DBTurista.txt	IDBTurista.txt	BeanTurista.txt							
+%
+UC14.txt	DBTurista.txt	IDBTurista.txt	GestioneTuristiAgenzia.txt	IGestioneTuristiAgenzia.txt	RicercaAvanzata.txt	BeanTurista.txt								
+%
+UC15.txt	DBTurista.txt	IDBTurista.txt	GestioneTuristiAgenzia.txt	IGestioneTuristiAgenzia.txt	ControlloDati.txt	BeanTurista.txt	IGestioneTuristaComune.txt	GestioneTuristaComune.txt						
+%
+UC16.txt	DBTurista.txt	IDBTurista.txt	GestioneTuristiAgenzia.txt	IGestioneTuristiAgenzia.txt	BeanTurista.txt									
+%
+UC17.txt	BannerDialog.txt	BannerNode.txt	ControlloDati.txt	IDBBanner.txt	DBBanner.txt	BeanBanner.txt	IGestioneAdvertisement.txt	GestioneAdvertisement.txt	GestioneAdvertisementAgenzia.txt	IGestioneAdvertisementAgenzia.txt	ControlloDatiAdvertisement.txt	CostantiGlobali.txt	Banner.txt
+%
+UC18.txt	GestioneAdvertisement.txt	IGestioneAdvertisement.txt	IDBBanner.txt	DBBanner.txt	BeanBanner.txt	MessaggiErrore.txt								
+%
+UC19.txt	IDBBanner.txt	DBBanner.txt	GestioneAdvertisement.txt	IGestioneAdvertisement.txt	BeanBanner.txt	GestioneAdvertisementAgenzia.txt	IGestioneAdvertisementAgenzia.txt	ControlloDatiAdvertisement.txt	CostantiGlobali.txt	Banner.txt				
+%
+UC20.txt	BannerDialog.txt	BannerNode.txt	ControlloDati.txt	IDBBanner.txt	DBBanner.txt	GestioneAdvertisement.txt	IGestioneAdvertisement.txt	BeanBanner.txt	GestioneAdvertisementAgenzia.txt	IGestioneAdvertisementAgenzia.txt	ControlloDatiAdvertisement.txt	CostantiGlobali.txt	Banner.txt
+%
+UC21.txt	DBNews.txt	IDBNews.txt	GestioneAdvertisementAgenzia.txt	IGestioneAdvertisementAgenzia.txt	News.txt	ControlloDati.txt	BeanNews.txt	ControlloDatiAdvertisement.txt					
+%
+UC22.txt	DBNews.txt	IDBNews.txt	GestioneAdvertisementAgenzia.txt	IGestioneAdvertisementAgenzia.txt	BeanNews.txt	ControlloDatiAdvertisement.txt								
+%
+UC23.txt	DBNews.txt	IDBNews.txt	GestioneAdvertisementAgenzia.txt	IGestioneAdvertisementAgenzia.txt	News.txt	ControlloDati.txt	NewsTableModel.txt	BeanNews.txt	ControlloDatiAdvertisement.txt					
+%
+UC24.txt	GestioneBeniCulturaliAgenzia.txt	IGestioneBeniCulturaliAgenzia.txt	GestionePuntiDiRistoroAgenzia.txt	IGestionePuntiDiRistoroAgenzia.txt	GestioneBeniCulturaliComune.txt	GestionePuntiDiRistoroComune.txt	IGestionePuntiDiRistoroComune.txt	IGestioneBeniCulturaliComune.txt	FeedBackTableModel.txt	GestioneTuristiAgenzia.txt	IGestioneTuristiAgenzia.txt			
+%
+UC25.txt	DBStatisticheLocalita.txt	IDBStatisticheLocalita.txt	GestionePuntiDiRistoroComune.txt	GestioneBeniCulturaliAgenzia.txt	IGestioneBeniCulturaliComune.txt	
+%
+UC26.txt	BeanVisitaBC.txt	BeanVisitaPR.txt	FeedBackTableModel.txt											
+%
+UC27.txt	Ricerca.txt	IRicerca.txt												
+%
+UC28.txt	DBTag.txt	IDBTag.txt	GestioneTagOperatoreAgenzia.txt	IGestioneTagOperatoreAgenzia.txt	TAGTableModel.txt	BeanTag.txt								
+%
+UC29.txt	IGestioneTagOperatoreAgenzia.txt	GestioneTagOperatoreAgenzia.txt												
+%
+UC30.txt	IGestioneTagOperatoreAgenzia.txt	GestioneTagOperatoreAgenzia.txt	DBTag.txt	IDBTag.txt	BeanTag.txt									
+%
+UC31.txt	BeanOperatoreAgenzia.txt	DBOperatoreAgenzia.txt	OperatoreAgenzia.txt	IDBOperatoreAgenzia.txt										
+%
+UC32.txt	BeanOperatoreAgenzia.txt	DBOperatoreAgenzia.txt	OperatoreAgenzia.txt											
+%
+UC33.txt	BeanTurista.txt	ControlloDati.txt	IDBTurista.txt	DBTurista.txt	IGestioneTuristaClient.txt	GestioneTuristaClient.txt	SchedaTurista.txt	IScheda.txt						
+%
+UC34.txt	Ricerca.txt	IRicerca.txt	GestioneBeniCulturaliComune.txt	IGestioneBeniCulturaliComune.txt	IGestionePuntiDiRistoroComune.txt	GestionePuntiDiRistoroComune.txt								
+%
+UC35.txt	Autenticazione.txt	IAutenticazione.txt	ControlloDati.txt	BeanTurista.txt	BeanOperatorePuntoDiRistoro.txt									
+%
+UC36.txt	Autenticazione.txt	IAutenticazione.txt	ControlloDati.txt											
+%
+UC37.txt	IAutenticazione.txt													
+%
+UC38.txt	DBBanner.txt	IDBBanner.txt	GestioneAdvertisementPuntoDiRistoro.txt	IGestioneAdvertisementPuntoDiRistoro.txt	ControlloDati.txt	BannerDialog.txt	BannerNode.txt	BeanBanner.txt	IGestioneAdvertisement.txt	GestioneAdvertisement.txt	ControlloDatiAdvertisement.txt			
+%
+%
+UC39.txt	DBBanner.txt	IDBBanner.txt	GestioneAdvertisementPuntoDiRistoro.txt	IGestioneAdvertisementPuntoDiRistoro.txt	ControlloDati.txt	BannerDialog.txt	BannerNode.txt	BeanBanner.txt	IGestioneAdvertisement.txt	GestioneAdvertisement.txt	ControlloDatiAdvertisement.txt			
+%
+UC40.txt	DBBanner.txt	IDBBanner.txt	GestioneAdvertisementPuntoDiRistoro.txt	IGestioneAdvertisementPuntoDiRistoro.txt	BeanBanner.txt	IGestioneAdvertisement.txt	GestioneAdvertisement.txt	ControlloDatiAdvertisement.txt						
+%
+UC41.txt	ControlloDati.txt	DBMenu.txt	IDBMenu.txt	DBPiatto.txt	IDBPiatto.txt	BeanMenu.txt	BeanPiatto.txt							
+%
+UC42.txt	ControlloDati.txt	DBMenu.txt	IDBMenu.txt	DBPiatto.txt	IDBPiatto.txt	BeanMenu.txt	BeanPiatto.txt							
+%
+UC43.txt	DBPuntoDiRistoro.txt	IDBPuntoDiRistoro.txt	ControlloDati.txt	PuntiDiRistoro.txt	BeanPuntoDiRistoro.txt	IGestionePuntiDiRistoroComune.txt	GestionePuntiDiRistoroComune.txt	PRNode.txt						
+%
+UC44.txt	DBConvenzione.txt	ControlloDati.txt	IDBConvenzione.txt	StoricoTableModel.txt	BeanConvenzione.txt									
+%
+UC45.txt	DBStatisticheLocalita.txt	IDBStatisticheLocalita.txt	GestionePuntiDiRistoroComune.txt	IGestionePuntiDiRistoroComune.txt	BeanPuntoDiRistoro.txt	BeanBeneCulturale.txt								
+%
+UC46.txt	ControlloDati.txt	DBPreferenzeDiRicerca.txt	IDBPreferenzeDiRicerca.txt	GestioneTuristaComune.txt	IGestioneTuristaComune.txt	BeanPreferenzaDiRicerca.txt	IDBPreferenzeGeneriche.txt	DBPreferenzeGeneriche.txt						
+%
+UC47.txt	ControlloDati.txt	DBTurista.txt	IDBTurista.txt	GestioneTuristaClient.txt	IGestioneTuristaClient.txt	GestioneTuristaComune.txt	IGestioneTuristaComune.txt	SchedaTurista.txt	IScheda.txt	BeanTurista.txt				
+%
+UC48.txt	ControlloDati.txt	DBPreferenzeGeneriche.txt	IDBPreferenzeGeneriche.txt	GestioneTuristaClient.txt	IGestioneTuristaComune.txt	BeanPreferenzeGeneriche.txt	IGestioneTuristaClient.txt						
+%
+UC49.txt	SitoTableModel.txt	GestioneTuristaClient.txt	IGestioneTuristaClient.txt	GestioneBeniCulturaliComune.txt	IGestioneBeniCulturaliComune.txt	GestionePuntiDiRistoroComune.txt	IGestionePuntiDiRistoroComune.txt							
+%
+UC50.txt	DBVisitaBC.txt	IDBVisitaBC.txt	DBVisitaPR.txt	IDBVisitaPR.txt	ControlloVisiteBeniCulturali.txt	SitoTableModel.txt	ControlloDati.txt	BeanVisitaBC.txt	VisitaPR.txt					
+%
+UC51.txt	DBPreferenzeGeneriche.txt	IDBPreferenzeGeneriche.txt	GestioneTuristaComune.txt	IGestioneTuristaClient.txt	ControlloDati.txt	BeanPreferenzeGeneriche.txt								
+%
+UC52.txt	DBPreferenzeGeneriche.txt	IDBPreferenzeGeneriche.txt	GestioneTuristaComune.txt	IGestioneTuristaClient.txt	BeanPreferenzeGeneriche.txt	IDBTurista.txt	DBTurista.txt							
+%
+UC53.txt	DBVisitaBC.txt	IDBVisitaBC.txt	DBVisitaPR.txt	IDBVisitaPR.txt	ControlloVisiteBeniCulturali.txt	SitoTableModel.txt	ControlloDati.txt							
+%
+UC54.txt	BeanVisitaBC.txt	BeanVisitaPR.txt	DBVisitaBC.txt	IDBVisitaBC.txt	DBVisitaPR.txt	IDBVisitaPR.txt	ControlloVisiteBeniCulturali.txt	SitoTableModel.txt	ControlloDati.txt	
+%
+UC55.txt	ControlloVisiteBeniCulturali.txt	ControlloDati.txt	BeanVisitaBC.txt	BeanVisitaPR.txt										
+%
+UC56.txt	Punto3D.txt	Punto3DRenderer.txt	Ricerca.txt	IRicerca.txt	RicercaStandard.txt									
+%
+UC57.txt	RicercaAvanzata.txt	IRicerca.txt												
+%
+UC58.txt	SitoTableModel.txt	SchedaBC.txt	SchedaPR.txt	IScheda.txt	BeanPuntoDiRistoro.txt	BeanBeneCulturale.txt								

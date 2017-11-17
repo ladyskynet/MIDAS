@@ -1,0 +1,1 @@
+SSS158 The TCS shall have the capability to simultaneously control and monitor a line-of-sight as well as a BLOS data terminal.

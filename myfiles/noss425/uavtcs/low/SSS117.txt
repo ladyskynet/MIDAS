@@ -1,0 +1,1 @@
+SSS117 The TCS shall provide the capability to switch to a SATellite COMmunication (SATCOM) antenna, if the selected AV has SATCOM capability, when desired (e.g. the AV proceeds beyond LOS range as well as when LOS is obstructed).

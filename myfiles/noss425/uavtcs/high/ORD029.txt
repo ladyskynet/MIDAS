@@ -1,0 +1,1 @@
+ORD029 The TCS shall be capable of importing map information via operator procedure (threshold).

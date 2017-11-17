@@ -1,0 +1,1 @@
+SSS321 The TCS shall have an interface to a source of current navigation information.

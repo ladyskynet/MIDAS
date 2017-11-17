@@ -1,0 +1,1 @@
+SSS175 The TCS shall be capable of automatically controlling the transmitter and receiver frequencies of the selected data terminal.

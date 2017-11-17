@@ -1,0 +1,1 @@
+SSS348 The TCS shall provide adequate capability to allow the operator to operate each UAV within its certified operational flight envelope. 

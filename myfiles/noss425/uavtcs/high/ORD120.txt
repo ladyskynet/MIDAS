@@ -1,0 +1,1 @@
+ORD120 The TCS will enable the UAV operator to communicate, receive mission tasking, conduct mission planning, execute the mission, collect, process, and support data collection from HAW UAV (objective).

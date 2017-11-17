@@ -1,0 +1,1 @@
+SSS485 The TCS HCI shall provide for separation, grouping, and visual coding of multiple categories of alerts, to include Warnings, Cautions, and Advisories. 

@@ -1,0 +1,1 @@
+SSS152 The TCS shall permit the operator to control the payload using all methods supported by the payload installed in the selected AV.

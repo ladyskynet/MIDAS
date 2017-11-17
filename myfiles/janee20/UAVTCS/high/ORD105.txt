@@ -1,0 +1,1 @@
+ORD105 The TCS throughput shall not exceed 50% of throughput capability delivered. Throughput should not exceed 25% of throughput capability delivered (objective).

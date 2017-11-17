@@ -1,0 +1,1 @@
+ORD072 The TCS shall have the ability to use Service specific ground or airborne UHF, VHF, and UHF/VHF, and HF radios for digital message transmission while using the same radios for record traffic (threshold). 

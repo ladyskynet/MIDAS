@@ -1,0 +1,1 @@
+SSS538 The TCS shall provide the capability to graphically display Line of Sight versus terrain profile (DTED).

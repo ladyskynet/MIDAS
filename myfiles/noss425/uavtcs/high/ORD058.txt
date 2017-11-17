@@ -1,0 +1,1 @@
+ORD058 The TCS shall have ports for outputting data and imagery to a hard copy printer and recording media  (threshold). 

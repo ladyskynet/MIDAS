@@ -1,0 +1,1 @@
+SSS319 The TCS shall have an interface between the TCS and DoD standard power supply equipment. 

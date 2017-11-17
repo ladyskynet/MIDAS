@@ -1,0 +1,1 @@
+SSS380 For each OUTRIDER system, the TCS shall provide full independent computer redundancy.

@@ -1,0 +1,1 @@
+SSS467 The TCS shall provide access to the DII Style Manager so that pointing device characteristics can be modified.

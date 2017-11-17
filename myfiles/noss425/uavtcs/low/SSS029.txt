@@ -1,0 +1,1 @@
+SSS029 The TCS in the Recovery Startup Mode shall provide the system functionality to resume the Operations State within 45 seconds.

@@ -1,0 +1,1 @@
+SSS195 The TCS shall display live or recorded imagery data, with or without annotation or overlay, upon operator request.

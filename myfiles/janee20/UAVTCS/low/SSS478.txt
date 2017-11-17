@@ -1,0 +1,1 @@
+SSS478 The TCS HCI shall provide coarse and fine payload control capabilities directly on the payload screen. 

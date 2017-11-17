@@ -1,0 +1,1 @@
+SSS164 The TCS shall support a LOS data link and SATCOM data link capability.

@@ -1,0 +1,1 @@
+ORD021 The TCS HCI shall be menu driven and have displays in a X-windows motif (threshold). 

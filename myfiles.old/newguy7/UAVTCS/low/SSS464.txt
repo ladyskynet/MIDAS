@@ -1,0 +1,1 @@
+SSS464 The TCS shall provide the functionality to display all HCI elements on any available monitor on the TCS workstation.

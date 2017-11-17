@@ -1,0 +1,1 @@
+SSS209 The TCS shall be capable of entering DII-COE compliant (C4I) networks. 

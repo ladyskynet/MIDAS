@@ -1,0 +1,1 @@
+SSS287 The TCS shall provide the system functionality necessary to interface with the data terminal.

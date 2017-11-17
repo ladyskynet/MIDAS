@@ -1,0 +1,1 @@
+SSS313 The TCS shall have provisions for simultaneously supporting both of the following external interfaces: LOS data link, SATCOM data link.

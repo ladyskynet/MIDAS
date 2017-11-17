@@ -1,0 +1,1 @@
+SSS004 The TCS shall consist of the TCS workstation Hardware Configuration Items (HWCIs), TCS Software Compute Software Configuration Items (CSCIs), and additional TCS Support HWCIs and CSCIs.

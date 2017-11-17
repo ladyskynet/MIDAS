@@ -1,0 +1,1 @@
+SSS198 RS170A Video and digital imagery shall be routed to TCS functions and displayed upon operator request. 

@@ -1,0 +1,1 @@
+SSS193 This functionality, as a minimum, shall include: printing a hard copy of freeze frame video. 

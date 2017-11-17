@@ -1,0 +1,1 @@
+SSS290 For external communications to C4I systems the TCS shall utilize the Universal Communication Processor 32 as well as the Common Message Processor (CMP) Government Off The Shelf (GOTS) software capabilities of the DII/COE to communicate with C4I systems using Tactical Communication (TACOMM) messages.

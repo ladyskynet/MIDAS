@@ -1,0 +1,1 @@
+ORD070 The TCS shall have the capability to connect to a local area network (threshold). 

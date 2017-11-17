@@ -1,0 +1,1 @@
+SSS527 The TCS shall provide the system functionality necessary to record data obtained via the data link. 

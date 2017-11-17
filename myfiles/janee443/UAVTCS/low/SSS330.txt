@@ -1,0 +1,1 @@
+SSS330 The TCS shall provide an internal interface for the SAR Processor in order to disseminate SAR information (to include imagery and telemetry) to other components of the TCS. 

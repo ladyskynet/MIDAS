@@ -1,0 +1,1 @@
+SSS179 The TCS shall be capable of monitoring and displaying the signal quality of the received and transmitted signals for the selected data terminal.

@@ -1,0 +1,1 @@
+SSS075 The TCS shall allow the operator to set the LOL delay timer(s) during mission planning.

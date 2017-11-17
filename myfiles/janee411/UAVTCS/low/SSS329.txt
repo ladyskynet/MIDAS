@@ -1,0 +1,1 @@
+SSS329 Remotely hosted applications shall communicate in a client server relationship via the defined data server interface. 

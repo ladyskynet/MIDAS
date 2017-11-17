@@ -1,0 +1,1 @@
+SSS083 The TCS flight route planner shall include, as a minimum, the following flight planning tools: Weight and balance take off data calculations. 

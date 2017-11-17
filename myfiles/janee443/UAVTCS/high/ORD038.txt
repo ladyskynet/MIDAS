@@ -1,0 +1,1 @@
+ORD038 The TCS shall provide the following survivability mission planning features: Provide a method of displaying aircraft signature versus threat, before and during flight (threshold). 

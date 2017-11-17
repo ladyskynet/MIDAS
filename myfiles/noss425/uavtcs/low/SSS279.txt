@@ -1,0 +1,1 @@
+SSS279 As a minimum, the TCS shall restrict Operator access to this capability via password protection.

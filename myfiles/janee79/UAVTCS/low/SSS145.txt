@@ -1,0 +1,1 @@
+SSS145 The TCS shall be capable of displaying fuel parameters to the operator to include as a minimum, remaining fuel, flow rate, and bingo fuel.

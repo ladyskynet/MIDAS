@@ -1,0 +1,1 @@
+SSS016 Upon application of power the TCS shall enter the Startup State.

@@ -1,0 +1,1 @@
+SSS440 TCS hardware flexibility and expansion shall be provided through use of GFE, NDI and COTS hardware designed to be upgraded and expanded. 

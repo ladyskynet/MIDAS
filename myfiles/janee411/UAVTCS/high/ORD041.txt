@@ -1,0 +1,1 @@
+ORD041 The TCS shall be capable of downloading mission plans from Service-specific mission planning systems (e.g., Tactical Aircraft Mission Planning System and Air Force Mission Support System) (threshold). 

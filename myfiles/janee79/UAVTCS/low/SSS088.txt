@@ -1,0 +1,1 @@
+SSS088 The TCS shall present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan. 

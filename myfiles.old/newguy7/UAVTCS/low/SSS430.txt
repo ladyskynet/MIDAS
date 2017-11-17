@@ -1,0 +1,8 @@
+SSS430 The TCS documentation shall include:
+1) The TCS System/Subsystem Specification (SSS)
+2) The TCS System/Subsystem Design Document (SSDD)
+3) The TCS Software Requirements Specification (SRS) (1 for each CSCI)
+4) The Software Design Document (SDD) (1 for each CSCI)
+5) The TCS Hardware Design Document (HDD)
+6) Interface Design Document (IDD) for all interfaces
+7) TCS Version Description Document(s) (VDD)

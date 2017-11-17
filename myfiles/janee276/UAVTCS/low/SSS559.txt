@@ -1,0 +1,1 @@
+SSS 559 The shall provide the functionality to have a maximum delay time of 1 second from operator command to system acknowledgement and response.

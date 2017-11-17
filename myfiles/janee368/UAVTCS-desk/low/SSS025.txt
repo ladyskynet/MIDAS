@@ -1,0 +1,1 @@
+SSS025 Initialization of the TCS shall include execution of Startup FD/L. 

@@ -1,0 +1,1 @@
+SSS453 The position of the displayed message window shall be easily adjustable by the operator to ensure that important mission data is not obscured. 

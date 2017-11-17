@@ -1,0 +1,1 @@
+SSS080 The TCS shall provide the capability to include up to 500 waypoints in each flight route plan.

@@ -1,0 +1,1 @@
+SSS382 The TCS shall have sufficient throughput to support the processing requirements the selected data link. 

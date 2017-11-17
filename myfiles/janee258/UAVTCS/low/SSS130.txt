@@ -1,0 +1,1 @@
+SSS130 The TCS shall have the capability to command the AV to use the navigation methods inherent to the selected AV.

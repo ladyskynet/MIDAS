@@ -1,0 +1,1 @@
+SSS366 The TCS shall be designed to protect its communication and data links against enemy Electronic Warfare (EW) threats, physical anti-radiation weaponry and physical destruction. 

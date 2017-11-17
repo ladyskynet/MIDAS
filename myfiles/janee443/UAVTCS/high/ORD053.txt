@@ -1,0 +1,1 @@
+ORD053 The TCS shall provide limited exploitation capabilities, to include voice and textual reporting for spot/mission objectives. 

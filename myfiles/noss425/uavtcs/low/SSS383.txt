@@ -1,0 +1,1 @@
+SSS383 To meet growth requirements, the TCS shall be capable of adding additional storage without major hardware reconfiguration. 

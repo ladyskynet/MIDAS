@@ -1,0 +1,1 @@
+SSS445 The TCS shall provide the operator a caution/warning when the UAV system has identified a malfunction. 

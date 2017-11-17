@@ -1,0 +1,1 @@
+SSS337 The TCS shall have ports for outputting data and imagery to an internal hard copy printer.

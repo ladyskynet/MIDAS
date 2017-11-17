@@ -1,0 +1,1 @@
+SSS144 When the data link is interrupted, the TCS shall present the last known AV status values and the time at which the last values were reported.

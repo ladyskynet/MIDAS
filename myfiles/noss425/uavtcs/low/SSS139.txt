@@ -1,0 +1,1 @@
+SSS139 The TCS shall allow the operator to initiate the emergency recovery feature of the AV, if the AV has an emergency recovery feature.

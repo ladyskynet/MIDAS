@@ -1,0 +1,1 @@
+SSS314 The TCS shall provide an interface between the TCS and an external hard copy printer. 

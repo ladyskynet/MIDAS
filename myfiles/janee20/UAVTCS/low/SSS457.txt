@@ -1,0 +1,1 @@
+SSS457 All TCS operator inputs shall be error checked against reasonable minimum and maximum values such that any erroneous operator entry will not cause current processing to terminate.

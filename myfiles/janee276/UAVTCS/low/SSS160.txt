@@ -1,0 +1,1 @@
+SSS160 Data terminal control shall include, but is not limited to, antenna pointing control, transmitter control, and receiver control.

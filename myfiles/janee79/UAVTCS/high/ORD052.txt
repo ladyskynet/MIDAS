@@ -1,0 +1,1 @@
+ORD052 During the mission execution, the TCS shall enable antenna switching when the UAV is masked by obstructions (threshold).

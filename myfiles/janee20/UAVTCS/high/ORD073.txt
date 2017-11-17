@@ -1,0 +1,1 @@
+ORD073 The TCS shall meet the mission capability criteria established by the MAE UAV and TUAV ORDs. 

@@ -1,0 +1,1 @@
+SSS489 The TCS HCI shall provide continuously-available, on-screen control functions for time and mission-critical operations, to include as a minimum print, freeze, declassification, mark VCR, declutter, cease RF transmission. 

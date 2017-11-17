@@ -1,0 +1,1 @@
+ORD030 The TCS shall include the basic flight planning tools. As a minimum these tools will include: Weight and balance take off data calculations. 

@@ -1,0 +1,1 @@
+ORD047 During the mission execution, the TCS shall provide dynamic mission and sensor retasking during operational mission execution (threshold). 

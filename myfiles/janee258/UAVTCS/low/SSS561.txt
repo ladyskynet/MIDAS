@@ -1,0 +1,1 @@
+SSS561 The TCS shall provide the capability to compute the range and bearing between two geographic positions on the map display. 

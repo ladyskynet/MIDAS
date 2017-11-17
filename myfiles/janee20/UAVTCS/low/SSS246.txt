@@ -1,0 +1,1 @@
+SSS246 TCS shall be capable of executing payload maintenance software and displaying appropriate status results.

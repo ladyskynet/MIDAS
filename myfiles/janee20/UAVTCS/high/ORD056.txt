@@ -1,0 +1,1 @@
+ORD056 The TCS shall have the capability to display Near-Real Time (NRT) imagery with annotation to include date/time group, target location when in the center field of view, north seeking arrow, AV position and heading  (threshold). 

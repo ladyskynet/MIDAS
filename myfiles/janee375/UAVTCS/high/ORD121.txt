@@ -1,0 +1,1 @@
+ORD121 The TCS shall be capable of incorporating vector format and Compressed ADRG (CADRG) maps (objective).

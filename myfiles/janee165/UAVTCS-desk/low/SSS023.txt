@@ -1,0 +1,1 @@
+SSS023 The TCS shall inform the operator if the operator attempts to execute a function that is prohibited based upon the determined level of interaction. 

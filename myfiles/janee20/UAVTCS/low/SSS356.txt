@@ -1,0 +1,1 @@
+SSS356 Upon detection of loss of link, the TCS shall attempt to reestablish communications with the air vehicle. 

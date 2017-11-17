@@ -1,0 +1,1 @@
+ORD040 The TCS shall be capable of storing mission plans and exporting them to other TCSs (threshold).

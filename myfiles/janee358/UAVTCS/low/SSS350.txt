@@ -1,0 +1,1 @@
+SSS350 For mission planning, the TCS shall provide terrain avoidance warning and minimum reception altitude calculations for line of sight flights. 

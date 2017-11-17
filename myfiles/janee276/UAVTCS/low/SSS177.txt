@@ -1,0 +1,1 @@
+SSS177 The TCS shall receive, process, and present status data to the operator so that the status of the data terminal and the supported AV data link can be monitored.

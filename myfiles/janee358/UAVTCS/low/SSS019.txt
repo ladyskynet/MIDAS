@@ -1,0 +1,1 @@
+SSS019 When the TCS Software is terminated normally the TCS shall enter the Normal Startup Mode of operation upon application of power.

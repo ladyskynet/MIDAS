@@ -1,0 +1,1 @@
+SSS384 The TCS computer system shall contain a CD-ROM drive that is compatible with Defense Mapping Agency (DMA), CD-ROM Digital Terrain Elevation Data (DTED), Digital Feature Analysis Data (DFAD), and embedded training media. 

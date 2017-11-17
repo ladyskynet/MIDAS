@@ -1,0 +1,1 @@
+SSS128 The TCS shall allow the operator to command the flight behavior characteristics inherent to the selected AV.

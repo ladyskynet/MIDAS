@@ -1,0 +1,1 @@
+SSS011 The TCS shall be capable of being interoperable with Predator and Outrider UAVs across the 5 levels of UAV interaction. 

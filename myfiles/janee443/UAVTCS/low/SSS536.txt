@@ -1,0 +1,1 @@
+SSS536 TCS shall display a LOL timer to the operator initiating a LOL onset. 

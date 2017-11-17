@@ -1,0 +1,1 @@
+SSS315 The TCS shall as a minimum, allow Operator(s) to print freeze-frame video, C4I Messages, Mission Plans, and FD/L information, and current map display.

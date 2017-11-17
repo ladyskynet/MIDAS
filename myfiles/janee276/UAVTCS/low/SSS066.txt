@@ -1,0 +1,1 @@
+SSS066 Upon completion of radar cross section analysis and characterization by the Government for each UAV type, TCS shall support the capability of displaying aircraft signature versus threat, before and during flight. 

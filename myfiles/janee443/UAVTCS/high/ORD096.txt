@@ -1,0 +1,1 @@
+ORD096 The TCS system shall provide, for the operator and maintainer, the capability for incorporation of embedded / add-on interactive training with self-paced instruction, duplicating UAV flight performance characteristics, capabilities, and limitations. 

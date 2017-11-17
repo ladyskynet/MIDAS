@@ -1,0 +1,1 @@
+SSS161 The TCS shall be capable of automatically selecting the proper mode of operation for the selected data terminal.

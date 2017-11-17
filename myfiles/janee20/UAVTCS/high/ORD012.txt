@@ -1,0 +1,1 @@
+ORD012 The TCS shall provide full interoperability between the Services and their UAV systems with varying levels of UAV interaction. 

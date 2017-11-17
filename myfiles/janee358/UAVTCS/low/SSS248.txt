@@ -1,0 +1,1 @@
+SSS248 TCS shall be capable of executing workstation and peripheral equipment maintenance software and displaying appropriate status results.

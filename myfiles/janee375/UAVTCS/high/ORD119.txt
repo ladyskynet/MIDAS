@@ -1,0 +1,1 @@
+ORD119 The environmental support required by the TCS shall be the same as that required for the respective UAV System. 

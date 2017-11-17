@@ -1,0 +1,1 @@
+ORD108 TCS containers must be reusable and enable the operators to set-up equipment within the established timelines in their ORDs. 

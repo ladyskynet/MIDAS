@@ -1,0 +1,1 @@
+SSS138 As an objective, the TCS shall present sufficient cues to the operator to implement and monitor automatic launch and recovery, and to initiate abort procedures if required. 

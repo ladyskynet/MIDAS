@@ -1,0 +1,1 @@
+SSS168 The TCS shall allow for the manual pointing of directional antennas when desired by the operator.

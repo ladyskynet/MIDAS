@@ -1,0 +1,1 @@
+ORD055 The TCS shall be in compliance with Common Imagery Ground Surface Station (CIGSS), United States Imagery Standards (USIS), and GCCS when processing payload imagery data  (threshold). 

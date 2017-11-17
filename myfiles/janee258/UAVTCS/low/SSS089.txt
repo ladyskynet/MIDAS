@@ -1,0 +1,1 @@
+SSS089 The TCS shall analyze the flight route plan selected for uplink to determine that the flight constraints of the AV and the limitation of the data link are not violated prior to transmission of the flight route plan to the AV. 

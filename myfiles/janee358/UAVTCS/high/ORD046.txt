@@ -1,0 +1,1 @@
+ORD046 During the mission execution, the TCS shall display the search footprint of the payload on the moving map (threshold). 

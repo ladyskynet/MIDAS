@@ -1,0 +1,1 @@
+ORD074 For each TUAV system, the TCS shall provide full independent computer redundancy. 

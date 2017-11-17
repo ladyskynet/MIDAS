@@ -1,0 +1,1 @@
+SSS486 The TCS HCI shall provide for visual Cautions and Advisories to be displayed at or near the center of the field of view, i.e., within a 30 degree cone, of all monitors in a TCS system. 

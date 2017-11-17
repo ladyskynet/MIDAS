@@ -1,0 +1,1 @@
+SSS541 The TCS shall provide the capability to display the payload swath for the selected payload for planning purposes.

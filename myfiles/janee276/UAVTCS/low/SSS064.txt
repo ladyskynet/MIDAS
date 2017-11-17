@@ -1,0 +1,1 @@
+SSS064 The TCS shall provide the capability to modify the maximum number of threats displayed, when de-clutter is selected.

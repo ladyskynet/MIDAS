@@ -1,0 +1,7 @@
+SSS412 The Design features shall be included to:
+1. minimize the number and frequency of required preventive maintenance actions based on performance requirements and lowest life cycle costs;
+2. minimize the contribution to degradation of TCS equipment reliability as a consequence of performing either preventive as well as corrective maintenance;
+3. enable the performance of all maintenance actions with safety and comparative ease by providing adequate access to all equipment components and minimizing the requirements for special tools and test equipment;
+4. minimize the requirement for specially trained maintenance personnel;
+5. improve system availability by the effective selection and incorporation of Built In Test Equipment (BITE);
+6. allow removal and replacement of replaceable units without soldering and unsoldering.

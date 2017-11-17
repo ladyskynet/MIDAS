@@ -1,0 +1,1 @@
+SSS409 The TCS data latency shall not be greater than that present in the Predator ground control station or Outrider ground control station, whichever is smaller. 

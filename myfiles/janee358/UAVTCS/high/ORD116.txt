@@ -1,0 +1,1 @@
+ORD116 TCS data burst messages shall comply with Variable Message Formats. 

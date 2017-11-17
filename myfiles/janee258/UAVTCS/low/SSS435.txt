@@ -1,0 +1,1 @@
+SSS435 The TCS shall be compatible with the external electromagnetic environment that is typical of the service specific environment in the TCS will be operated.

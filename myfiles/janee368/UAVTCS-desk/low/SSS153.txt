@@ -1,0 +1,1 @@
+SSS153 The TCS shall provide a graphical user interface display for the purpose of controlling the payload.

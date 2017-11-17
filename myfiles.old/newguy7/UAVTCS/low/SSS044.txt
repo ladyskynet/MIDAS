@@ -1,0 +1,1 @@
+SSS044 Shutdown of the TCS shall include storage as well as deletion, as specified by the operator, of mission data files.

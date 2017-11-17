@@ -1,0 +1,1 @@
+SSS422 The system shall be functionally and physically partitioned to allow for efficient fault isolation.

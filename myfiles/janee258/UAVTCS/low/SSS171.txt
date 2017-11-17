@@ -1,0 +1,1 @@
+SSS171 The TCS shall be capable of automatically controlling the transmitter and receiver functions of the selected data terminal.

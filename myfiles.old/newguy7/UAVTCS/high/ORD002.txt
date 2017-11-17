@@ -1,0 +1,1 @@
+ORD002 The TCS software shall provide a high resolution, computer generated, graphics user interface that enables the UAV operator that is trained on one system to control different types of UAVs or UAV payloads with minimal additional training. 

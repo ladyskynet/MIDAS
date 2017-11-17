@@ -1,0 +1,1 @@
+SSS129 The operator shall have the capability to initiate as well as change, to include as a minimum manual override, flight behaviors by sending the proper control commands to the UAV.

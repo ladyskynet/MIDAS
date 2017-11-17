@@ -1,0 +1,1 @@
+SSS048 There shall be no modes of operation in the shutdown state.

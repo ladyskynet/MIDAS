@@ -1,0 +1,1 @@
+SSS551 The TCS shall allow the operator to define the desired AV route in waypoint format

@@ -1,0 +1,1 @@
+SSS249 Fault Detection/Location (FD/L) to the Line Replaceable Unit (LRU) level shall be provided to indicate the readiness status of TCS, if inherent to the COTS hardware and software utilized.

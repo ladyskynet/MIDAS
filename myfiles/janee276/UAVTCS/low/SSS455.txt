@@ -1,0 +1,1 @@
+SSS455 The volume of these auditory tones shall be adjustable by the operator via keyboard and trackball input to at least 20dB above the speech interference level at the operator's ear. 

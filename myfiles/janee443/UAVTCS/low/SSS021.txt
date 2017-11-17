@@ -1,0 +1,1 @@
+SSS021 During startup, the TCS shall determine which of the 5 levels of interaction are achievable by the TCS configuration.

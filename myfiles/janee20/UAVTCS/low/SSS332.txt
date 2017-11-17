@@ -1,0 +1,1 @@
+SSS332 The intercom system shall be compatible with service specific voice communication systems. 

@@ -1,0 +1,1 @@
+SSS091 The flight route plan, as a minimum, shall provide the necessary AV commands to autonomously execute a programmed flight and return to a designated recovery area.

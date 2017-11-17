@@ -1,0 +1,1 @@
+SSS558 The TCS shall export and disseminate formatted NITF 2.0 files

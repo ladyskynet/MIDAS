@@ -1,0 +1,1 @@
+SSS236 The TCS shall provide the capability to log all incoming and outgoing formatted tactical messages.

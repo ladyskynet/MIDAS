@@ -1,0 +1,1 @@
+SSS047 Shutdown of the TCS shall include proper termination of all active interfaces. 

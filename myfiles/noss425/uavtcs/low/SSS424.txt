@@ -1,0 +1,1 @@
+SSS424 Test points and data paths shall be defined to support efficient fault isolation.

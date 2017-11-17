@@ -1,0 +1,1 @@
+ORD097 The TUAV TCS system shall be compatible with the U.S. Army Intelligence and Electronic Warfare Tactical Proficiency Trainer (Multiple UAV Simulation Environment) as an objective. 

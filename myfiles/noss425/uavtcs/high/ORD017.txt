@@ -1,0 +1,1 @@
+ORD017 The TCS shall provide an open software architecture that can support future UAVs (threshold). 

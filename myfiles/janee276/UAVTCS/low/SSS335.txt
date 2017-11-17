@@ -1,0 +1,1 @@
+SSS335 The TCS shall be able to route VCR recorded payload video to the C4I Interfaces. 

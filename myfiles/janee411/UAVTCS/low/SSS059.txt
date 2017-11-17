@@ -1,0 +1,1 @@
+SSS059 The TCS mission planning function shall provide a graphical user interface that gives the operator the ability to define waypoints on a map based display using a pointing device with full keyset redundancy.

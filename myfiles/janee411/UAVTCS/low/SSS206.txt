@@ -1,0 +1,1 @@
+SSS206 The TCS shall support a target location function where the operator can request the current ground location of the payload field-of-view center. 

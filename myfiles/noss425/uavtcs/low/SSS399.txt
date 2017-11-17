@@ -1,0 +1,1 @@
+SSS399 TCS software shall provide a windows based graphic operator interface. 

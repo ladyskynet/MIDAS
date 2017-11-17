@@ -1,0 +1,1 @@
+ORD016 The TCS shall enable the UAV operator to communicate, receive mission tasking, conduct mission planning, execute the mission, and collect, process, and disseminate data for the TUAV and MAE UAV (threshold). 

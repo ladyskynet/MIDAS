@@ -1,0 +1,1 @@
+SSS072 TCS shall provide the capability for the operator to save the mission plan under a different name, for future retrieval.

@@ -1,0 +1,1 @@
+SSS050 The TCS shall have the functionality to allow the operator to generate a UAV mission plan.

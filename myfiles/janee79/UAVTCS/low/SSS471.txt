@@ -1,0 +1,1 @@
+SSS471 The TCS shall provide automated TCS system information, control options, and logical & simple operator guidance and support for immediate and adaptive responding to crisis situations.

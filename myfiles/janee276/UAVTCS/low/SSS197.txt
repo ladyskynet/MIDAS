@@ -1,0 +1,1 @@
+SSS197 The TCS shall have the capability to select and deselect several types of cross hairs (or other similar ICON) to identify a selected point on a target.

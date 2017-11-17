@@ -1,0 +1,1 @@
+SSS490 The TCS HCI shall provide for the capability to automatically designate target transmissions from the payload screen onto the map screen. 

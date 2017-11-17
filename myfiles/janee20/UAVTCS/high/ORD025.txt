@@ -1,0 +1,1 @@
+ORD025 The TCS shall be capable of being interoperable with different types of UAVs and UAV payloads across the 5 levels of UAV interaction (threshold). 

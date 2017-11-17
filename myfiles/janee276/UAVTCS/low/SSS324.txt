@@ -1,0 +1,1 @@
+SSS324 The uplink and downlink information passed between the TCS and the AV shall be in accordance with the associated AV documentation. 

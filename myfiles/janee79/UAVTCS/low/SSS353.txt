@@ -1,0 +1,1 @@
+SSS353 The TCS shall be designed such that no single hardware failure or software error results in an unsafe command to be transmitted to and accepted by the air vehicle. 

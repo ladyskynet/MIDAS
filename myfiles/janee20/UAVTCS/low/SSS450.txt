@@ -1,0 +1,1 @@
+SSS450 The TCS operator shall be required to enter an acknowledgment prior to disabling the display of critical warning flags for any AV, Payload, ADT, GDT, or TCS faults. 

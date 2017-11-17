@@ -1,0 +1,1 @@
+SSS191 This functionality, as a minimum, shall include: creating and storing a freeze frame of the video. 

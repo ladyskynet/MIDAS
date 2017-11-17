@@ -1,0 +1,1 @@
+SSS550 The TCS shall provide the capability of displaying overlays each containing 100 simultaneous icons of airspace control zones 

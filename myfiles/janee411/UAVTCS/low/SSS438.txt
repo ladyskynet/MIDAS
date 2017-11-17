@@ -1,0 +1,1 @@
+SSS438 Software written for other systems shall be used in TCS where it is determined that the existing software is suitable for use within the TCS software. 

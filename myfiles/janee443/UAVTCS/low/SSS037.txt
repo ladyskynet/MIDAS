@@ -1,0 +1,6 @@
+SSS037 In the Normal Operations Mode the TCS shall support the following functions:
+1. Mission Planning
+2. Mission Control and Monitoring
+3. Payload Product Management
+4. Target Coordinate Development
+5. C4I Systems Interface

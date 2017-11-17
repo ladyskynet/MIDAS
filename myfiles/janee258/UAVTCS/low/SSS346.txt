@@ -1,0 +1,1 @@
+SSS346 The TCS safety requirements are intended to eliminate or control potential hazards to equipment and personnel involved in the TCS. The TCS shall comply with para 5.3 of MIL-STD 882C, "System Safety Program Requirements", dated 19 January 1993 w/Notice 1 dated 19 January 1996. 

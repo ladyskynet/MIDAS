@@ -1,0 +1,1 @@
+SSS334 The TCS shall allow the Operator(s) to fully control the VCR via the TCS Display input device(s). 

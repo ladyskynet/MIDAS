@@ -1,0 +1,1 @@
+SSS539 The TCS shall provide the capability to implement an emergency action plan, if supported by the AV, to control the AV during equipment failures.

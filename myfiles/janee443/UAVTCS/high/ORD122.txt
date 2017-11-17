@@ -1,0 +1,1 @@
+ORD122 The TCS shall be capable of storing mission plans and exporting them to force level mission planning systems (objective).

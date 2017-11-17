@@ -1,0 +1,1 @@
+SSS542 Initialization of the TCS HWCIs shall include startup of HWCIs. 

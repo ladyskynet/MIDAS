@@ -1,0 +1,1 @@
+SSS528 The TCS shall be capable of automatically recording system state data, interface communications and other information necessary to support event reconstruction. 

@@ -1,0 +1,1 @@
+SSS014 The states of operation of the TCS shall include Startup, Operation, and Shutdown.

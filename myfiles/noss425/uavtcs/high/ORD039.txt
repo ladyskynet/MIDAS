@@ -1,0 +1,1 @@
+ORD039 The TCS shall provide the following survivability mission planning features: The system should be capable of displaying overlays or icons of known threat systems and displaying the threat engagement envelopes and associated radar terrain masking for those threats for route planning (threshold). 

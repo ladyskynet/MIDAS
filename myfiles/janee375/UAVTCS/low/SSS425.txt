@@ -1,0 +1,1 @@
+SSS425 The TCS shall provide the common software architecture for TCS interaction with Predator, Outrider, and future Tactical UAVs.

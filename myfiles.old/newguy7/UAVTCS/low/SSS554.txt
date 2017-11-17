@@ -1,0 +1,1 @@
+SSS554 The TCS flight route planner shall include, as a minimum, the following flight planning tools: Minimum data link reception altitude calculations for line of sight flights. 

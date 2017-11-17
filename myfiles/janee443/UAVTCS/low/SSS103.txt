@@ -1,0 +1,1 @@
+SSS103 For those payloads identified in Table 3-2, the TCS shall be able to generate payload planning information to be uplinked to the AV separate from a flight route plan.

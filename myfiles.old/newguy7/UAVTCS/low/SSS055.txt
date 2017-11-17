@@ -1,0 +1,1 @@
+SSS055 The TCS shall have the functionality to transmit UAV mission plans to service specific mission planning systems.

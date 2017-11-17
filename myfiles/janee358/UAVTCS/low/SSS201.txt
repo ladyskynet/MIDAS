@@ -1,0 +1,1 @@
+SSS201 The TCS shall have image enhancement capability to include contrast, brightness, edge enhancement, and sharpness. 

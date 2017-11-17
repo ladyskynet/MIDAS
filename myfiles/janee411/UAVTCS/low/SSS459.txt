@@ -1,0 +1,1 @@
+SSS459 Display jitter and flicker shall not be detectable by the operator. 

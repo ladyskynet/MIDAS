@@ -1,0 +1,1 @@
+SSS480 The TCS HCI shall provide the on-screen capability to select and efficiently move or reorient a previously defined SAR imaging swath. 

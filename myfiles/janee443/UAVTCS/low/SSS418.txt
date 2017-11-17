@@ -1,0 +1,1 @@
+SSS418 Hardware and software shall be selected for use in the TCS with the goal of providing ease of future changes to the TCS elements.

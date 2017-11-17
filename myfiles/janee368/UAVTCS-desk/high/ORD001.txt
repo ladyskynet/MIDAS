@@ -1,0 +1,1 @@
+ORD001 The TCS shall have the capability to be configured and down-scaled to meet the user's deployability or operator limitations. 

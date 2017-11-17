@@ -1,0 +1,1 @@
+SSS378 The TCS hardware shall allow for multiple external peripherals.

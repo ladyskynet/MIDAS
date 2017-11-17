@@ -1,0 +1,1 @@
+SSS032 When in the Operations State the TCS shall be capable of operating in three modes: normal operations mode, training operations mode, and maintenance operations mode.

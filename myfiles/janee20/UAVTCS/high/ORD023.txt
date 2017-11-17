@@ -1,0 +1,1 @@
+ORD023 The TCS shall be capable of supporting additional software modules for future payloads, payload capabilities (e.g. autosearch and automatic target tracking), and future Tactical UAVs (threshold).

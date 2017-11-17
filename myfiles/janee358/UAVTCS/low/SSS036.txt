@@ -1,0 +1,1 @@
+SSS036 The TCS hardware and software shall execute periodic Fault Detection Logic (FD/L) while in the Normal Operations Mode and Training Mode, to include a periodic determination of level of interaction. 

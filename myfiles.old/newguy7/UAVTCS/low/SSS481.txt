@@ -1,0 +1,1 @@
+SSS481 The TCS HCI shall provide the capability to lock onto and hold a coordinate point on-screen. 

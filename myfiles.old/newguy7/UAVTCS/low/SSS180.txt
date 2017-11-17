@@ -1,0 +1,1 @@
+SSS180 The TCS shall be capable of presenting to the operator a visual depiction of the minimum and maximum data link operational ranges.

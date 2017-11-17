@@ -1,0 +1,1 @@
+SSS286 The TCS shall interface with external mission tasking systems (e.g., receive tasking orders, coordinate mission certification).

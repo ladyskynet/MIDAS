@@ -1,0 +1,12 @@
+SSS407 The TACCOM segment shall provide external interfaces for the communications media as indicated in Table 3.10.4-1:
+Communication Media	Interface Document
+RS-232	IEEE RS-232
+RS-422	EIA RS-422
+RS-170A	ISO-XXX
+Wire line, 2-wire	MIL-C-49104
+Wire line, 4-wire	MIL-C-55425
+MSE (DNVT, DSVT)	ICD MSE-001
+MSE TPN 	MSE System Specification, Appendix SR45
+SINCGARS 	ACCS-A3-409-001
+ANG/GYC-7 	ICD-016, ICD-017, TIDP for MTS
+IEEE 802.3/LAN 	ISO/IS 8802/2, ISO/IS 8802/3

@@ -1,0 +1,1 @@
+ORD034 The TCS shall be capable of providing point-and-click route and sensor planning (threshold). 

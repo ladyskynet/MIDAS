@@ -1,0 +1,1 @@
+SSS108 While flying two MAE AVs Beyond Line Of Sight (BLOS), the TCS shall provide full control functionality of each AV.

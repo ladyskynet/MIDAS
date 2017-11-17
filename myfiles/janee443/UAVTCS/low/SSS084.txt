@@ -1,0 +1,1 @@
+SSS084 The TCS flight route planner shall include, as a minimum, the following flight planning tools: Fuel Calculations

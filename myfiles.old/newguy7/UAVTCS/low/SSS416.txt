@@ -1,0 +1,1 @@
+SSS416 The I/O channel reserve capability for each processor shall have at least a 50% reserve, addressable and useable, I/O channel capacity over any 10 second period. 

@@ -1,0 +1,1 @@
+SSS095 The TCS shall have the capability to load a map onto the display, to zoom in and out, to scroll, to print, and to clear a map on the map display.

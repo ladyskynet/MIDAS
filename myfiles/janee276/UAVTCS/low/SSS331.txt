@@ -1,0 +1,1 @@
+SSS331 The TCS shall incorporate an intercom system that allows the operator(s) of the TCS to verbally communicate in the situation where there are multiple operators. 

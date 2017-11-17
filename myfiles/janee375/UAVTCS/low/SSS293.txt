@@ -1,0 +1,1 @@
+SSS293 The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JMCIS. 

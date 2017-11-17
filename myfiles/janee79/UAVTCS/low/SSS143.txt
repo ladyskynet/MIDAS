@@ -1,0 +1,1 @@
+SSS143 The TCS shall display the AV status, to include but not be limited to the AV location and flight and avionics system status.

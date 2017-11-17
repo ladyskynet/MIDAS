@@ -1,0 +1,1 @@
+ORD068 The TCS datalink shall support a simultaneous LOS and beyond LOS capability (threshold). 

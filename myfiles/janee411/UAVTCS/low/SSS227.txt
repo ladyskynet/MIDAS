@@ -1,0 +1,1 @@
+SSS227 The TCS shall have the functionality to provide the following control capabilities: Establish and terminate analog communication to C4I systems specified in Section 3.2.5. 

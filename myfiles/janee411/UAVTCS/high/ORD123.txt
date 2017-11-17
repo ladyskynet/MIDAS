@@ -1,0 +1,1 @@
+ORD123 The TCS shall have the capability to display target symbols in variable sizes (objective).

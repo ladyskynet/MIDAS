@@ -1,0 +1,1 @@
+SSS466 The TCS shall provide full complementary control operations from the keyset as well as the X/Y control device (e.g., trackball, mouse, joystick).

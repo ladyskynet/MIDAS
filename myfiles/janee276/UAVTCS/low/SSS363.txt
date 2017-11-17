@@ -1,0 +1,1 @@
+SSS363 Using risk assessment procedure defined in DoD 5200.28(D), a risk index and the minimum security requirements for TCS shall be determined.

@@ -1,0 +1,1 @@
+SSS100 Upon operator request, the following icons shall be displayed on the map display (when the coordinates reside on the displayed portion of the map). Display an icon indicating Launch, Handover, and Recovery site (when applicable).

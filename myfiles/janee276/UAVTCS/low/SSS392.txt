@@ -1,0 +1,1 @@
+SSS392 As an objective, the TCS shall be capable of providing a 75% spare memory storage capacity over storage used.

@@ -1,0 +1,1 @@
+SSS087 The TCS flight route planner shall include, as a minimum, the following flight planning tools: Ability to designate flight corridors and restricted air space. 

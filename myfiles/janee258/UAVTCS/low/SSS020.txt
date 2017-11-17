@@ -1,0 +1,1 @@
+SSS020 When the TCS software is halted due to an unplanned power interruption as well as abnormal program termination, then the TCS shall enter the Recovery Startup Mode upon application of power.

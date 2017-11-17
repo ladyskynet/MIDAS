@@ -1,0 +1,1 @@
+SSS401 The TCS's operating system and executable software shall be re-programmable without hardware disassembly.

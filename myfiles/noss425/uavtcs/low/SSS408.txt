@@ -1,0 +1,1 @@
+SSS408 The TACCOM segment shall provide API's for the transmission of imagery in National Imagery Transmission Formats 1.1a and 2.0 as per MILSTD-2500 and in accordance with the Common Imagery Ground/Surface Station (CGIS) Guidelines. 

@@ -1,0 +1,1 @@
+SSS557 The TCS shall incorporate antenna pedestal 3-axis stabilization to compensate for platform (e.g. ship, or HMMWV) motion, if applicable. 

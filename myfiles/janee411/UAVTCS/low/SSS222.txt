@@ -1,0 +1,1 @@
+SSS222 The TCS shall have the functionality to provide the following control capabilities: Send and receive tactical communication messages 

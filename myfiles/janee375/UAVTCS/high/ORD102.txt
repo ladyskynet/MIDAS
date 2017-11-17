@@ -1,0 +1,1 @@
+ORD102 The TCS shall be capable of providing a 50% spare memory storage capacity over sotrage delivered (threshold)

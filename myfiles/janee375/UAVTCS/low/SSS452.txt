@@ -1,0 +1,1 @@
+SSS452 Visual alerts to the TCS operator shall be in the form of a displayed message box that has a display priority greater than other existing windows to ensure that it is viewable immediately by the operator. 

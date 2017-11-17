@@ -1,0 +1,1 @@
+SSS154 The TCS shall provide override of payload automated as well as preprogrammed inputs.

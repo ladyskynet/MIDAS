@@ -1,0 +1,1 @@
+ORD061 The TCS shall have image enhancement capability  (threshold). 

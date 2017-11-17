@@ -1,0 +1,1 @@
+ORD035 The TCS shall program air vehicles with mission planning data prior to launch (threshold). 

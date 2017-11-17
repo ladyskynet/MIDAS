@@ -1,0 +1,1 @@
+SSS367 All hardware, software, documentation, and sensitive information processed by TCS shall be physically protected, minimally at the level determined by the risk index computed in Section 3.8.1, to prevent intentional or unintentional disclosure, destruction, or modification. 

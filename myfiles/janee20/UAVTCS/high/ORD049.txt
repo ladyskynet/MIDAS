@@ -1,0 +1,1 @@
+ORD049 During the mission execution, the TCS shall have the capability to receive data from and control payloads on a UAV that is being controlled from another TCS (threshold).

@@ -1,0 +1,7 @@
+SSS211 The TCS shall provide the functionality necessary to interface with various C4I systems in order to satisfy the operational requirements for:
+1. Tasking TCS to plan and conduct a mission.
+2. Presentation of payload product and target coordinates for export and dissemination.
+3. Use of UAV obtained data (Non-real time tracks, tactical points and amplifying information) to
+provide a C4I system with information that may be used by C4I system operators, for transmission
+on tactical data communication links, and available to support engagement by appropriate weapons
+systems.

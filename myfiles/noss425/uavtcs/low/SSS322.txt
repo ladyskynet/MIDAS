@@ -1,0 +1,1 @@
+SSS322 The TCS shall implement an AV Standard Interface that will provide the proper data format to ensure communications with the selected AV. 

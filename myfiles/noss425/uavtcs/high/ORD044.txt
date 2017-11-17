@@ -1,0 +1,1 @@
+ORD044 The TCS shall support an automatic launch and recovery system (objective). 

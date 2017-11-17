@@ -1,0 +1,1 @@
+SSS076 At every waypoint and every 5 minutes, the TCS shall compute the AV's flight range based on remaining fuel.

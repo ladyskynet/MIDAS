@@ -1,0 +1,1 @@
+ORD057 The TCS shall have a built-in word processing and text capability including the ability to overlay textual information on imagery  (threshold). 

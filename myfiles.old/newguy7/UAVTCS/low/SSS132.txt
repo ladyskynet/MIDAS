@@ -1,0 +1,1 @@
+SSS132 The TCS shall provide the functionality to control, monitor, and display the operation of the Air Data Terminal (ADT).

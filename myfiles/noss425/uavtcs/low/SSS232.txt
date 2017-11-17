@@ -1,0 +1,2 @@
+SSS232 The TCS shall, as a minimum, have the functionality to provide the following digital data processing
+capabilities: Prepare Annotated as well as Un-annotated Digital Imagery For Transmission

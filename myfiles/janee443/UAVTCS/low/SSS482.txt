@@ -1,0 +1,1 @@
+SSS482 The TCS HCI shall provide the capability to display operator definable "Lock Out" zones around waypoints, Launch and Recovery Point (LRP), or any selected point on the AV flight path. 

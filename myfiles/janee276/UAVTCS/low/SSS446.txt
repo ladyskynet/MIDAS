@@ -1,0 +1,1 @@
+SSS446 The TCS shall have monitor(s) that provide easy reading of displays under direct sunlight and low light level environments. 

@@ -1,0 +1,1 @@
+SSS479 The TCS HCI shall display the SAR imaging swath on the map display. 

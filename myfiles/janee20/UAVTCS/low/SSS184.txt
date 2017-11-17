@@ -1,0 +1,1 @@
+SSS184 The TCS shall be able to store up to 24 hours of payload data.

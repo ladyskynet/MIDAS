@@ -1,0 +1,14 @@
+%
+r4.txt   d4_1.txt   d4_2.txt   d4_3.txt   d4_4.txt 
+%
+r6.txt   d6_1.txt   d6_2.txt   d6_3.txt   d6_4.txt   d6_5.txt   d6_6.txt 
+%
+r8.txt   d8_1.txt   d8_2.txt   d8_3.txt 
+%
+r10.txt   d10_1.txt   d10_2.txt   d10_3.txt   d10_4.txt   d10_5.txt   d10_6.txt   d10_7.txt   d10_8.txt 
+%
+r12.txt   d12_1.txt   d12_2.txt   d12_3.txt   d12_4.txt   d12_5.txt   d12_6.txt   d12_7.txt 
+%
+r14.txt   d14_1.txt   d14_2.txt   d14_3.txt 
+%
+r16.txt   d16_1.txt   d16_2.txt   d16_3.txt

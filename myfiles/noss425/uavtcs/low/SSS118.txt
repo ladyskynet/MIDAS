@@ -1,0 +1,1 @@
+SSS118 The TCS shall provide the capability to control the AV flight commands as well as to release the AV to an autonomous flight control mode.

@@ -1,0 +1,1 @@
+ORD024 The TCS shall allow operators to have simultaneous flight and payload control of at least two air vehicles, beyond line of sight, using one TCS (threshold). 

@@ -1,0 +1,1 @@
+SSS224 The TCS shall have the functionality to provide the following control capabilities: Establish and terminate digital communication to the C4I systems specified in Section 3.2.5. 

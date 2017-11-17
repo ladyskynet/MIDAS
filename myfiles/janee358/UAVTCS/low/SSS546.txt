@@ -1,0 +1,1 @@
+SSS546 Recovery of the TCS HWCIs shall include establishment of the state of readiness of all interfaces.

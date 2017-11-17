@@ -1,0 +1,1 @@
+SSS374 The hardware of the TCS shall be capable of being scaled as well as being modular to meet the varying needs of the Services.

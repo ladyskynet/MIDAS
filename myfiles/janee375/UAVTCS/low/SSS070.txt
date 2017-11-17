@@ -1,0 +1,1 @@
+SSS070 The TCS shall provide the system functionality necessary to perform flight route plan upload to the AV via the selected system data link or direct ground connection.

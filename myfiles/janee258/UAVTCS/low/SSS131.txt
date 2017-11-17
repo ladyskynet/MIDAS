@@ -1,0 +1,1 @@
+SSS131 The operator shall have the capability to initiate as well as change, to include as a minimum manual override, UAV navigation methods by sending the proper control commands to the UAV.

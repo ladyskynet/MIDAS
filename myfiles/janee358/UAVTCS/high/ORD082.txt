@@ -1,0 +1,1 @@
+ORD082 The TCS shall operate in world wide climatic conditions, i.e. same climatic conditions in which the TCS shelter/platform is designed to operate. 

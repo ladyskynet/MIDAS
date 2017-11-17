@@ -1,0 +1,1 @@
+SSS157 The TCS shall display the current search footprint and the search history of the payload on the map.

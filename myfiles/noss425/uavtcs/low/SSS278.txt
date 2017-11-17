@@ -1,0 +1,1 @@
+SSS278 The TCS shall provide the capability for Authorized Operators to modify all TCS programmable parameters.

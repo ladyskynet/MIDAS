@@ -1,0 +1,1 @@
+SSS410 The TCS reliability will be considered in every phase of the design and development process and shall achieve a system reliability (Mean Time Between Failures MTBF) equal to or greater than that which is specified in the Predator and Outrider ORDs. 

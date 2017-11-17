@@ -1,0 +1,1 @@
+SSS082 The TCS shall provide the capability to enter waypoint data in alphanumeric format.

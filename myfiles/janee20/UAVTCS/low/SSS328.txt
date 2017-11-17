@@ -1,0 +1,1 @@
+SSS328 The RTP interface shall support distributed processing capability. 

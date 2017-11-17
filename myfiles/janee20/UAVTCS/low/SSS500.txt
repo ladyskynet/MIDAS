@@ -1,0 +1,1 @@
+SSS500 The capability for the conduct of actual communications processing concurrently with Training operations shall be provided if and only if messages are identified as training messages. 

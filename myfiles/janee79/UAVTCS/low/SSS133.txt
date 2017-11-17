@@ -1,0 +1,1 @@
+SSS133 The TCS shall provide the functionality to control the ADT antenna.

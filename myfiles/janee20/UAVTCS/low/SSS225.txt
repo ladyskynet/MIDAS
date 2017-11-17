@@ -1,0 +1,1 @@
+SSS225 The TCS shall have the functionality to provide the following control capabilities: Establish and terminate digital communication to peripheral devices. 

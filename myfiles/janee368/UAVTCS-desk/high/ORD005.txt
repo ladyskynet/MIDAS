@@ -1,0 +1,1 @@
+ORD005 The TCS software shall be non-proprietary. 

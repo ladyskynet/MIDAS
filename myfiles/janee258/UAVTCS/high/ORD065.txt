@@ -1,0 +1,1 @@
+ORD065 The TCS must support a simultaneous uplink and downlink capability. 

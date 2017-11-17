@@ -1,0 +1,1 @@
+ORD069 The TCS shall be interoperable with C4I systems listed in the paragraph 5f(2) of this ORD per ASD(C3I) JTA standards (threshold). 

@@ -1,0 +1,1 @@
+SSS419 The selection of processors, interface cards for communication interfaces, disk drives, video, networking equipment, and all other hardware for use in the TCS shall be made according to standards for production of an open architecture. 

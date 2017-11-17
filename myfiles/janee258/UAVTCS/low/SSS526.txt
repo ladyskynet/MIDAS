@@ -1,0 +1,1 @@
+SSS526 The TCS system shall be capable of being de-configured from sea/ground/air transport and groundmobile in 2 hours or less. 

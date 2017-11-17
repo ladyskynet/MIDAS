@@ -1,0 +1,1 @@
+ORD003 The TCS software shall have an open architecture and be capable of being hosted on computers that are typically supported by the using Service. 

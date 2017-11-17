@@ -1,0 +1,1 @@
+SSS345 The TCS design solution shall consider all safety requirements affecting design and performance except nuclear safety. 

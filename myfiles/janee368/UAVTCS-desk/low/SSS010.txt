@@ -1,0 +1,6 @@
+SSS010 The TCS shall support 5 levels of UAV interaction:
+Level 1: receipt and transmission of secondary imagery and/or [as well as] data
+Level 2: direct receipt of imagery and/or [as well as] data
+Level 3: control of the UAV payload in addition to direct receipt of imagery/data
+Level 4: control of the UAV, less launch and recovery, plus all the functions of level three
+Level 5: capability to have full function and control of the UAV from takeoff to landing

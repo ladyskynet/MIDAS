@@ -1,0 +1,1 @@
+ORD109 The TCS shall support direct connectivity to standard DOD tactical (VHF, UHF, and UHF/VHF) radios, Mobile Subscriber Equipment, and military/commercial satellite communications capabilities. 

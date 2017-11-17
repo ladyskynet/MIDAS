@@ -1,0 +1,1 @@
+SSS223 The TCS shall have the functionality to provide the following control capabilities: Send and receive annotated and un-annotated digital imagery 

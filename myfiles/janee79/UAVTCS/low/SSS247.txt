@@ -1,0 +1,1 @@
+SSS247 TCS shall be capable of executing data terminal maintenance software and displaying appropriate status results.

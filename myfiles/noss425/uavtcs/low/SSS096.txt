@@ -1,0 +1,1 @@
+SSS096 Upon operator request, the following icons shall be displayed on the map display (when the coordinates reside on the displayed portion of the map). Display an icon indicating AV position when receiving downlink from the desired AV.

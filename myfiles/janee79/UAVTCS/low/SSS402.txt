@@ -1,0 +1,1 @@
+SSS402 Training software shall be alterable without affecting the configuration of the operational software. 

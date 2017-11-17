@@ -1,0 +1,1 @@
+SSS429 50 The documentation shall contain sufficient technical detail to define the hardware and software design implemented to satisfy the system requirements.

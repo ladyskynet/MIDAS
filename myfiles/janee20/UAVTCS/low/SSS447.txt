@@ -1,0 +1,1 @@
+SSS447 The TCS HCI shall be a Graphical User Interface (GUI) based on X-windows and Motif. 

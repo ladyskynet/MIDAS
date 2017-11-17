@@ -1,0 +1,1 @@
+SSS028 Initialization of the TCS shall include establishment of the state of readiness of all interfaces. 

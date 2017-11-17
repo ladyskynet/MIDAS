@@ -1,0 +1,1 @@
+SSS110 TCS shall uplink command and control information to the AV via the uplink to the AV. 

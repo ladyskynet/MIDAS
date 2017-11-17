@@ -1,0 +1,1 @@
+SSS497 TCS system training shall include system architecture, component familiarization, and system startup, initialization, system recovery, on-line diagnostics, and shutdown. 

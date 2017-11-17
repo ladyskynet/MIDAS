@@ -1,0 +1,6 @@
+SSS104 The TCS shall provide the system functionality necessary to generate a payload plan that, as a minimum, shall include the following information:
+1. Payload type
+2. Payload commands
+3. Payload mode settings
+4. Payload pointing commands, manual as well as automated
+5. Payload field of view settings, manual as well as automated

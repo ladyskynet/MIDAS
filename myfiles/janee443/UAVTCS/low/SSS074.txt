@@ -1,0 +1,1 @@
+SSS074 The TCS shall notify the operator of all discrepancies found during the mission plan check as well as indicate successful completion of the mission plan check.

@@ -1,0 +1,1 @@
+SSS442 The TCS shall be capable of operating continuously in functional Operation Mode for a minimum of 72 hours.

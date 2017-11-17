@@ -1,0 +1,1 @@
+SSS340 The TCS shall have the functionality to transfer digital data or digital imagery to and from external data storage devices. 

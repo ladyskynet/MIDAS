@@ -1,0 +1,1 @@
+SSS469 The TCS shall use graphical representations to convey information, such as system status, C4I links, and AV-GDT links.

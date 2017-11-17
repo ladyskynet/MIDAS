@@ -1,0 +1,1 @@
+SSS253 The TCS shall allow the operator to control and monitor the Data Link FD/L, if required and provided by the Original Equipment Manufacturer (OEM)

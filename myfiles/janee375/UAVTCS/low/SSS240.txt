@@ -1,0 +1,1 @@
+SSS240 The TCS shall have the functionality to provide the following data monitoring capability: Display which C4I systems are supported and online during a mission

@@ -1,0 +1,1 @@
+SSS463 The HCI shall provide redundancy in all operations, so that the loss of any one HCI input device does not prohibit operation of any TCS function.

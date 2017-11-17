@@ -1,0 +1,1 @@
+SSS035 The operator shall have the capability to command the system to the Shutdown State from all modes under the Operations State.

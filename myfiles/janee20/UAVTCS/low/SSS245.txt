@@ -1,0 +1,1 @@
+SSS245 TCS shall be capable of executing AV maintenance software and displaying appropriate status results.

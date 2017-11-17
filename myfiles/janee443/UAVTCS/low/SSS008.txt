@@ -1,0 +1,1 @@
+SSS008 The TCS shall meet the applicable capability and characteristic criteria established by the Operational Requirements Document (ORD) CAF 003-90-I-A for the RQ-1A Predator Medium Altitude Endurance Unmanned Aerial Vehicle/System (MAE UAV) and the Close Range - Tactical Unmanned Aerial Vehicle (CR-TUAV). 

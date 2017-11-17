@@ -1,0 +1,1 @@
+ORD067 The TCS datalinks shall comply with CDL standards to ensure interoperability (objective). 

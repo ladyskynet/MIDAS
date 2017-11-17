@@ -1,0 +1,1 @@
+SSS427 System documentation shall be developed as part of the TCS program and will follow MIL-STD-498 for format.

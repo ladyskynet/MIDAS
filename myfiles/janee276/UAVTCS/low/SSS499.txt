@@ -1,0 +1,1 @@
+SSS499 The TCS system shall not support formal Training operations concurrent with the execution of an actual mission.

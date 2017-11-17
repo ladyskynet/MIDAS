@@ -1,0 +1,1 @@
+SSS170 . The TCS shall be capable of positioning antennas to maintain LOS as well as SATCOM.

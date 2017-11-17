@@ -1,0 +1,1 @@
+SSS098 Upon operator request, the following icons shall be displayed on the map display (when the coordinates reside on the displayed portion of the map). Display an icon, in variable sizes, indicating target position and type at coordinates selected by the operator.

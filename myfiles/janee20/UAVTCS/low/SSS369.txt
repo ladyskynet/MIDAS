@@ -1,0 +1,1 @@
+SSS369 All TCS users, operators, maintainers and other personnel having access to TCS shall be cleared to the highest sensitivity of the data that the TCS processes, stores or transfers. 

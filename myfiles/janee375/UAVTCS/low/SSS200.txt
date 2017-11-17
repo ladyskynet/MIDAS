@@ -1,0 +1,1 @@
+SSS200 The TCS shall have the functionality to conduct limited exploitation, to include voice and textual reporting for spot and mission objectives, on the payload product data.

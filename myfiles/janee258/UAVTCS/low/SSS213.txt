@@ -1,0 +1,1 @@
+SSS213 The TCS shall have the capability to use cable to deliver live video imagery in multiple locations. 

@@ -1,0 +1,1 @@
+SSS406 The DII/COE UCP/CMP shall provide a consistent and common set of interfaces for United States Military Transmission Format (USMTF), Army Tactical Command Control System (ATCSS), and Field Artillery Tactical Data Systems (FATDS) message sets.

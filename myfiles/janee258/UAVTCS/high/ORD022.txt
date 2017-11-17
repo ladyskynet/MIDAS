@@ -1,0 +1,1 @@
+ORD022 The TCS shall have peripheral ports to drive external devices. As a minimum, ports required will be for monitor displays, mouse (or pointer device), keyboard, printer, LAN, EIA-RS-170, and external disk drives (if required) (threshold)

@@ -1,0 +1,1 @@
+SSS403 The TCS software shall restrict the operator(s) from exercising levels of interaction not achievable by the system. 

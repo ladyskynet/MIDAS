@@ -1,0 +1,1 @@
+SSS134 The TCS shall provide the functionality to control the power, transmitter signal strength, and frequencies used by ADT for data link communication.

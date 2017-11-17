@@ -1,0 +1,1 @@
+SSS241 The TCS shall have the functionality to provide the following data monitoring capability: Monitor the status of all incoming and outgoing tactical communication messages 

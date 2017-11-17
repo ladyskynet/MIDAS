@@ -1,0 +1,1 @@
+SSS149 The TCS shall provide the necessary system capabilities required for payload control beyond line of sight via uplink command of two air vehicles of the same type using sequential communication techniques.

@@ -1,0 +1,1 @@
+SSS176 The operator shall be able to manually override the automatic frequency selection if desired.

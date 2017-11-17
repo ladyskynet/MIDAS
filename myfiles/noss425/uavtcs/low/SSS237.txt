@@ -1,0 +1,1 @@
+SSS237 The TCS shall, as a minimum, have the functionality to provide the following analog data processing capabilities: Prepare annotated as well as un-annotated analog imagery for transmission

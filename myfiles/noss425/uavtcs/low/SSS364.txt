@@ -1,0 +1,1 @@
+SSS364 The TCS data sensitivities shall be determined by the data sensitivities of the systems with which it interfaces including the air vehicles, payloads, and C4I systems.

@@ -1,0 +1,1 @@
+SSS119 AV telemetry data shall be available to support other TCS functions as required.

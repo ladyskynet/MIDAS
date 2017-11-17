@@ -1,0 +1,1 @@
+SSS052 The TCS shall facilitate automated processing of mission plan data received via C4I interfaces in order to extract the appropriate mission planning data.

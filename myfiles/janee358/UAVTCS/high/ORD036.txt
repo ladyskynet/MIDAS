@@ -1,0 +1,1 @@
+ORD036 The TCS shall have tools for importing or creating overlays for fire support coordination measures, airspace control measures, and threat (objective). 

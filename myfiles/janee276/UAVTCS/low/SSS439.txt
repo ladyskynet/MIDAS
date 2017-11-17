@@ -1,0 +1,1 @@
+SSS439 A modular architecture shall be used by the TCS software in order to support future interoperability with multiple types of UAVs and payloads while maintaining consistent displays and user interfaces.

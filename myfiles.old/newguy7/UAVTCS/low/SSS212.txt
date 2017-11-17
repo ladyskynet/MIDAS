@@ -1,0 +1,1 @@
+SSS212 The TCS shall have the capability to interoperate with a data server to receive, extract, and push intelligence data. 

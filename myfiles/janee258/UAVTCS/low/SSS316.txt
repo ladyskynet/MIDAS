@@ -1,0 +1,1 @@
+SSS316 The TCS shall have the functionality to output digital message data and imagery to a hard copy printer. 

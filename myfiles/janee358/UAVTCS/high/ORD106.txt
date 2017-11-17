@@ -1,0 +1,1 @@
+ORD106 The TCS shall comply with the Assistant Secretary of Defense (C3I) Joint Technical Architecture (JTA). This includes, but is not limited to, the language, the computer, database, architecture, and interoperability (threshold)

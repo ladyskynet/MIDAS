@@ -1,0 +1,1 @@
+SSS376 The TCS hardware shall allow for data storage expansion. 

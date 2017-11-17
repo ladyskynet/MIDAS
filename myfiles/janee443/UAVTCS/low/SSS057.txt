@@ -1,0 +1,1 @@
+SSS057 A Mission Plan shall include a Flight Route Plan for a selected AV, a Payload Plan for the selected payload, and a Communications Plan.

@@ -1,0 +1,1 @@
+SSS173 The TCS shall be capable of automatically controlling the transmitter and receiver modes of the selected data terminal.

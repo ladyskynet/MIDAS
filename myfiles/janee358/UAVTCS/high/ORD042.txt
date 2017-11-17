@@ -1,0 +1,1 @@
+ORD042 The TCS shall be capable of changing the mission plan while the air vehicle is airborne (threshold). 

@@ -1,0 +1,1 @@
+SSS239 The TCS shall have the functionality to monitor the status of all C4I interfaces, and display appropriate control information.

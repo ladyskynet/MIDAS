@@ -1,0 +1,1 @@
+SSS417 TCS software flexibility and expandability shall be provided through use of the DII COE and through use of standardized software development practices.

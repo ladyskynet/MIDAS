@@ -1,0 +1,1 @@
+ORD059 The TCS shall have a means of inputting data from external data storage systems  (threshold). 

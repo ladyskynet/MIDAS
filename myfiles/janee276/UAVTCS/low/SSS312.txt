@@ -1,0 +1,1 @@
+SSS312 The TCS shall provide interfaces with the respective UAV program-provided data links for command and control and UAV data. 

@@ -1,0 +1,1 @@
+SSS031 For recovery from abnormal termination, TCS shall prompt the operator to select the type of recovery to be executed: (1) Resume in the Same Modes And Data; (2) Resume in the Same Modes but Review and Modify the Command Data as Necessary; or, (3) Perform a Command Shutdown and Startup Via the Normal Startup Mode.

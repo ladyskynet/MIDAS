@@ -1,0 +1,1 @@
+SSS472 The TCS shall provide maximum automated system software support to system status monitoring and alerting of the TCS operator when a preset system parameter goes under as well as over a set threshold.

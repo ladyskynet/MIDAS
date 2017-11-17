@@ -1,0 +1,1 @@
+SSS046 Shutdown of the TCS shall include shutdown of HCIs. 

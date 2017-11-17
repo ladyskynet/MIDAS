@@ -1,0 +1,1 @@
+SSS178 The TCS shall be capable of monitoring and displaying the signal strength of the received and transmitted signals for the selected data terminal.

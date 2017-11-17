@@ -1,0 +1,1 @@
+SSS067 The TCS shall permit dynamic mission and sensor retasking during all phases of operational mission execution.

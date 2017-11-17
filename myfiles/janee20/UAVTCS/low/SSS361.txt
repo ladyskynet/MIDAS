@@ -1,0 +1,1 @@
+SSS361 The TCS is an automated information system (AIS). As such, as per DoD Regulation 5000.2-R, dated March 15, 1996, the TCS shall meet security requirements in accordance with DoD Directive 5200.28(D), "Security Requirements for Automated Information Systems" dated March 21, 1988. 

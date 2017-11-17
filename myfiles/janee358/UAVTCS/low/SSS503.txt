@@ -1,0 +1,1 @@
+SSS503 Operator and maintainer performance shall be measurable using parameters retrievable from the TCS to determine proficiency levels. 

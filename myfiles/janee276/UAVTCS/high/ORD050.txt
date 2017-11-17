@@ -1,0 +1,1 @@
+ORD050 During the mission execution, the TCS shall provide the capability to pass control of an AV from one TCS to another (threshold).

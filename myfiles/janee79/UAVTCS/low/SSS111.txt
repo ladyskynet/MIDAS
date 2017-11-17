@@ -1,0 +1,1 @@
+SSS111 TCS shall receive AV telemetry and payload video information via downlink from the AV. 

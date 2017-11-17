@@ -1,0 +1,8 @@
+SSS041 In the Maintenance Operations Mode, if computer workstation Human Computer Interface (HCI) is required, the TCS shall support the following functions:
+1. Conduct AV maintenance
+2. Conduct payload maintenance
+3. Conduct Data Link Terminal maintenance
+4. Conduct workstation and peripheral equipment maintenance
+5. Perform Fault Detection/Location (FD/L)
+6. Perform Software Upgrades
+7. Perform Software Debug and Monitoring

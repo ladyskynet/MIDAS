@@ -1,0 +1,1 @@
+ORD009 The TCS hardware shall allow for access to other computers to share in processing capability. 

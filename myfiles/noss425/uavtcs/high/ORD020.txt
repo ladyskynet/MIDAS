@@ -1,0 +1,1 @@
+ORD020 The TCS shall have monitor(s) that provide easy reading of displays (threshold). 

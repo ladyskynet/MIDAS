@@ -1,0 +1,1 @@
+SSS458 All TCS HCI shall prompt the operator for a valid input if an erroneous entry is made. 

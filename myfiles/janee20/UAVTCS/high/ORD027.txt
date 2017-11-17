@@ -1,0 +1,1 @@
+ORD027 The TCS shall be capable of meeting the operational and physical security requirements of the systems with which it is interoperable (threshold). 

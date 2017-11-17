@@ -1,0 +1,1 @@
+SSS473 The TCS shall provide the necessary processing, display, and control capabilities to ensure dynamic situational awareness input to the TCS operator.

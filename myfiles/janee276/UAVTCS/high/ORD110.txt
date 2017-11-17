@@ -1,0 +1,22 @@
+ORD110 The TCS shall be capable of entering DII-COE compliant (C4I) networks. Network interoperability shall include, but not be limited to: 
+1. Radio data burst connectivity to Automatic Target Hand-off Systems (ATHS) 
+2. Advanced Field Artillery Tactical Data Systems (AFATDS) 
+3. Army Deep Operations Coordination System (ADOCS) 
+4. Wire connectivity to the All Source Analysis System (ASAS) 
+5. The Intelligence Analysis System (IAS) 
+6. The Joint Standoff Target Attack Radar System (JSTARS) Ground Station Module/Common Ground Station (GSM/CGS) 
+7. The Joint Maritime command Information System (JMCIS) 
+8. Closed Circuit Television (CCTV) 
+9. Advanced Tomahawk Weapons Control Station (ATWCS) 
+10. Joint Deployable Intelligence Support System (JDISS) 
+11. Trojan Special Purpose Integrated Remote Intelligence Terminal (SPIRIT) 
+12. Joint Service Imagery Processing System (JSIPS) 
+13. JSIPS Tactical Exploitation Group (JSIPS TEG) 
+14. JSIPS Tactical Exploitation System (JSIPS TES) 
+15. Service Mission Planners 
+16. The Theater Battle Management Core System (TBMCS) 
+17. The Guardrail Common Sensor/Aerial Common Sensor (GCS/ACS) Integrated Processing Facility 
+18. Modernized Imagery Exploitation System (MIES) 
+19. Enhanced Tactical Radar Correlator (ETRAC) 
+20. Contingency Airborne Reconnaissance System (CARS) 
+21. Common Operational Modeling, Planning, and Simulation System (COMPSS) 

@@ -1,0 +1,1 @@
+SSS389 The TCS throughput shall not exceed 50% of throughput capability delivered over any 10 second period. 

@@ -1,0 +1,1 @@
+SSS344 The TCS shall have an interface to an uninterruptible power supply. 

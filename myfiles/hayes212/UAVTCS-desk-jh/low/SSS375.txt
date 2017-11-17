@@ -1,0 +1,1 @@
+SSS375 The TCS hardware shall allow for long range communications from one TCS to another. 

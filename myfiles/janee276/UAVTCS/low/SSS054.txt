@@ -1,0 +1,1 @@
+SSS054 The TCS shall have the functionality to receive and process UAV mission plans from other TCSs.

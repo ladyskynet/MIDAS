@@ -1,0 +1,7 @@
+SSS413 The TCS equipment shall achieve an availability (Ao), as defined below, equal to or greater than that which is specified in the Predator and Outrider ORDs. 
+Ao = (OT + ST)/(OT + ST + TPM + TCM + TALDT)
+where:	OT denotes Operate Time
+	ST denotes Standby Time
+	TPM denotes Total Preventative Maintenance
+	TCM denotes Total Corrective Maintenance
+	TALDT denotes Total Administrative and Logistic Downtime

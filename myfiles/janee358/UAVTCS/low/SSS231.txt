@@ -1,0 +1,1 @@
+SSS231 The TCS shall, as a minimum, have the functionality to provide the following digital data processing capabilities: Review Incoming Tactical Communication Messages

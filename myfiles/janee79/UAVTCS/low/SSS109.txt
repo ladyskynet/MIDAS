@@ -1,0 +1,1 @@
+SSS109 AV specific components used to perform ground based closed loop command and control functions for TCS shall be initialized upon operator selection of a specific AV.

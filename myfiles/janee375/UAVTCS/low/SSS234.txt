@@ -1,0 +1,1 @@
+SSS234 All digital messages received by the TCS shall be automatically checked for errors and corrected when possible.

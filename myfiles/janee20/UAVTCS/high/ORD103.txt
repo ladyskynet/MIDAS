@@ -1,0 +1,1 @@
+ORD103 A 75% spare memory storage capacity over storage used is desired (objective).

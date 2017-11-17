@@ -1,0 +1,1 @@
+SSS187 The TCS shall have a built-in text entry capability including the ability to annotate textual information on imagery.

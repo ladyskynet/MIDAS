@@ -1,0 +1,1 @@
+SSS420 The selection of operating system and programming language for use in the TCS shall be made according to standards for development of an open architecture. 

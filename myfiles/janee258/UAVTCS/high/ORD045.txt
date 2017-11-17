@@ -1,0 +1,1 @@
+ORD045 During the mission execution, the TCS shall display the location and system status of the UAV (threshold). 

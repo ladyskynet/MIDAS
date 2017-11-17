@@ -1,0 +1,1 @@
+ORD060 The TCS shall have the capability to distribute NRT video to selected users (including commercially available television monitors and VCRs) via external ports  (threshold). 

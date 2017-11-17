@@ -1,0 +1,1 @@
+ORD089 The TCS hardware and software shall include Fault Detection/Location (FD/L) during initial system computer system boot-up. 

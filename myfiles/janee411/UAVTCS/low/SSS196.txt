@@ -1,0 +1,1 @@
+SSS196 The TCS operator shall be able to select the content of the overlay information. 

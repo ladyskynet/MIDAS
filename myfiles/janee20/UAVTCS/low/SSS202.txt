@@ -1,0 +1,1 @@
+SSS202 The TCS shall provide the capability to capture frozen-frames of imagery and store a limited number of these frozen images for further review or processing. 

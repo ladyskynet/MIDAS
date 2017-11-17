@@ -1,0 +1,1 @@
+SSS397 The TCS software shall provide the UAV operator with the necessary tools for computer related communications, mission tasking, mission planning, mission execution, data receipt, data processing, and data dissemination.

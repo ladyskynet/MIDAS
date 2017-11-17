@@ -1,0 +1,1 @@
+SSS336 An RS-170A video interface shall be provided for the system to output and input analog imagery and overlays to and from a Video Cassette Recorder (VCR) for recording and playback. 

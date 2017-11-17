@@ -1,0 +1,1 @@
+SSS282 The TCS shall allow an Authorized Operator to execute a software debug capability and view the resulting debug diagnostic information.

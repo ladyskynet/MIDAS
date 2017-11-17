@@ -1,0 +1,1 @@
+SSS277 The TCS shall restrict operator access to this capability via password protection.

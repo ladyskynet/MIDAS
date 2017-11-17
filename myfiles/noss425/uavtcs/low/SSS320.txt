@@ -1,0 +1,1 @@
+SSS320 The TCS shall have the functionality to connect to the power supply equipment provided in the TCS operating environment. 
