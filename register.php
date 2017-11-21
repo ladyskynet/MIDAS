@@ -63,11 +63,11 @@ session_start();
 				<div class="inner">
 					<?php include "logout.php"; ?>
 					
-					<h1>Upload Your Data Set</h1>
+					<h1>Register for an Account</h1>
 
 					<!-- Form -->
 					<section>
-						<h3>Enter your data set name and click next to upload the zip file.</h3>
+
 						<form action="" method="post" enctype="multipart/form-data">
 							<div class="row uniform">
 								<div class="6u 12u$(xsmall)">
